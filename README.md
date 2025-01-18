@@ -9,40 +9,25 @@ recommendations, and improve customer satisfaction.
 **Project Structure** 
 * Data collection and cleaning.
 * Data preprocessing and transformation.
-<br>
-
-<br>
-* Data Clustering and analysis
-<br>
-
-<br>
-* Results
-<br>
+* Data Clustering and analysis.
+* Results.
 
 
 **Requirements**
-<br>
-*Jupyter Notebook
-<br>
-*Pandas
-<br>
-* NumPy
-<br>
-* Scikit-learn
-<br>
-* Matplotlib
-<br>
+
+* Jupyter Notebook.
+* Pandas.
+* NumPy.
+* Scikit-learn.
+* Matplotlib.
 
 **Procedure**
-<br>
+
 These steps are found in the notebook, customer segmentation.ipynb file with summary explanations.
-<br>
+
 * Data collection and cleaning.
-<br>
 * Data preprocessing and transformation.
-<br>
 * Data Clustering and analysis.
-<br>
 
 **Results**
 
