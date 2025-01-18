@@ -1,4 +1,5 @@
 **Customer Segmentation**
+<br><br>
 Customer segmentation is the process of dividing a company's customers into groups based on common characteristics. These groups, or 
 segments, are created to help businesses better understand their customers and tailor their marketing and sales efforts to each specific group.
 This project aims at creating segments based on customers purchase behaviour and create a clustering model to group the customers by purchasing 
