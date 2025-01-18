@@ -19,27 +19,27 @@ recommendations, and improve customer satisfaction.
 
 
 **Requirements**
-   <br>
-    * Jupyter Notebook
-    <br>
-    * Pandas
-    <br>
-    * NumPy
-    <br>
-    * Scikit-learn
-    <br>
-    * Matplotlib
-    <br>
+<br>
+* Jupyter Notebook
+<br>
+* Pandas
+<br>
+* NumPy
+<br>
+* Scikit-learn
+<br>
+* Matplotlib
+<br>
 
 **Procedure**
 <br>
 These steps are found in the notebook, customer segmentation.ipynb file with summary explanations.
 <br>
-    * Data collection and cleaning.
+* Data collection and cleaning.
 <br>
-    * Data preprocessing and transformation.
+* Data preprocessing and transformation.
 <br>
-    * Data Clustering and analysis.
+* Data Clustering and analysis.
 <br>
 
 **Results**
