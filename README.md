@@ -6,8 +6,7 @@ This project aims at creating segments based on customers purchase behaviour and
 behaviour and also by demographics that is by country. The resulting segments can be used to target marketing campaigns, personalize product 
 recommendations, and improve customer satisfaction.
 
-**Project Structure**
-<br> 
+**Project Structure** 
 * Data collection and cleaning
 <br>
 
