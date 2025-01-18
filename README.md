@@ -46,7 +46,6 @@ These steps are found in the notebook, customer segmentation.ipynb file with sum
 
 **Top Purchases By Country**
  
- # Bahrain 17 sales, brazil 32 sales, Czech 30 sales, Saudi arabia 10 sales.
 | Country |Purchases| Suggestion|
 |---|---|---|
 | United Kingdom |close to 362,000  | Increase Products, Target audience| 
