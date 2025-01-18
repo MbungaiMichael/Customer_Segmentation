@@ -7,30 +7,45 @@ behaviour and also by demographics that is by country. The resulting segments ca
 recommendations, and improve customer satisfaction.
 
 **Project Structure**
+    <br> 
     * Data collection and cleaning
+    <br>
     * Data preprocessing and transformation
+    <br>
     * Data Clustering and analysis
+    <br>
     * Results
+    <br>
 
 
 **Requirements**
+   <br>
     * Jupyter Notebook
+    <br>
     * Pandas
+    <br>
     * NumPy
+    <br>
     * Scikit-learn
+    <br>
     * Matplotlib
+    <br>
 
 **Procedure**
-This steps are found in the notebook, customer segmentation.ipynb file. with summary explanations
-    * Data collection and cleaning
-    * Data preprocessing and transformation
-    * Data Clustering and analysis
+<br>
+These steps are found in the notebook, customer segmentation.ipynb file with summary explanations.
+<br>
+    * Data collection and cleaning.
+<br>
+    * Data preprocessing and transformation.
+<br>
+    * Data Clustering and analysis.
+<br>
 
 **Results**
 
 | Cluster | Type of Customer | RFM analysis| Suggestions |
 |---|---|:---:|---|
-| **Header 1** | **Header 2** | **Header 3** | **Header 4** |
-| Row 1, Cell 1 | Row 1, Cell 2 | Row 1, Cell 3 | Row 1, Cell 4 |
-| Row 2, Cell 1 | Row 2, Cell 2 | Row 2, Cell 3 | Row 2, Cell 4 |
-| Row 3, Cell 1 | Row 3, Cell 2 | Row 3, Cell 3 | Row 3, Cell 4 |
+| 0 | Row 1, Cell 2 | Row 1, Cell 3 | Row 1, Cell 4 |
+| 1 | Row 2, Cell 2 | Row 2, Cell 3 | Row 2, Cell 4 |
+| 2 | Row 3, Cell 2 | Row 3, Cell 3 | Row 3, Cell 4 |
