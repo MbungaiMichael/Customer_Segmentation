@@ -1,0 +1,35 @@
+**Customer Segmentation**
+Customer segmentation is the process of dividing a company's customers into groups based on common characteristics. These groups, or 
+segments, are created to help businesses better understand their customers and tailor their marketing and sales efforts to each specific group.
+This project aims at creating segments based on customers purchase behaviour and create a clustering model to group the customers by purchasing 
+behaviour and also by demographics that is by country. The resulting segments can be used to target marketing campaigns, personalize product 
+recommendations, and improve customer satisfaction.
+
+**Project Structure**
+    * Data collection and cleaning
+    * Data preprocessing and transformation
+    * Data Clustering and analysis
+    * Results
+
+
+**Requirements**
+    * Jupyter Notebook
+    * Pandas
+    * NumPy
+    * Scikit-learn
+    * Matplotlib
+
+**Procedure**
+This steps are found in the notebook, customer segmentation.ipynb file. with summary explanations
+    * Data collection and cleaning
+    * Data preprocessing and transformation
+    * Data Clustering and analysis
+
+**Results**
+
+| Cluster | Type of Customer | RFM analysis| Suggestions |
+|---|---|:---:|---|
+| **Header 1** | **Header 2** | **Header 3** | **Header 4** |
+| Row 1, Cell 1 | Row 1, Cell 2 | Row 1, Cell 3 | Row 1, Cell 4 |
+| Row 2, Cell 1 | Row 2, Cell 2 | Row 2, Cell 3 | Row 2, Cell 4 |
+| Row 3, Cell 1 | Row 3, Cell 2 | Row 3, Cell 3 | Row 3, Cell 4 |
