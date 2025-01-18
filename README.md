@@ -7,22 +7,22 @@ behaviour and also by demographics that is by country. The resulting segments ca
 recommendations, and improve customer satisfaction.
 
 **Project Structure**
-    <br> 
-    * Data collection and cleaning
-    <br>
-    * Data preprocessing and transformation
-    <br>
-    * Data Clustering and analysis
-    <br>
-    * Results
-    <br>
+<br> 
+*Data collection and cleaning
+<br>
+*Data preprocessing and transformation
+<br>
+*Data Clustering and analysis
+<br>
+*Results
+<br>
 
 
 **Requirements**
 <br>
-* Jupyter Notebook
+*Jupyter Notebook
 <br>
-* Pandas
+*Pandas
 <br>
 * NumPy
 <br>
