@@ -7,9 +7,8 @@ behaviour and also by demographics that is by country. The resulting segments ca
 recommendations, and improve customer satisfaction.
 
 **Project Structure** 
-* Data collection and cleaning
-<br>
-* Data preprocessing and transformation
+* Data collection and cleaning.
+* Data preprocessing and transformation.
 <br>
 
 <br>
