@@ -10,12 +10,15 @@ recommendations, and improve customer satisfaction.
 <br> 
 * Data collection and cleaning
 <br>
+
 <br>
 * Data preprocessing and transformation
 <br>
+
 <br>
 * Data Clustering and analysis
 <br>
+
 <br>
 * Results
 <br>
