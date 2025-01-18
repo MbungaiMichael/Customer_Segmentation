@@ -9,8 +9,6 @@ recommendations, and improve customer satisfaction.
 **Project Structure** 
 * Data collection and cleaning
 <br>
-
-<br>
 * Data preprocessing and transformation
 <br>
 
