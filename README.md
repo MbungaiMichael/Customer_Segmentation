@@ -39,7 +39,7 @@ These steps are found in the notebook, customer segmentation.ipynb file with sum
 | Cluster | Type of Customer | RFM analysis| Suggestions |
 |---|---|:---:|---|
 | 0 | Steady Customers  |Frequent and high purchase customers | Target customer for recent products |
-| 1 | New Customers | new comers with low frequency and purchases| make their purchases and stay at the store comforatble |
+| 1 | New Customers | new comers with low frequency and purchases| make their purchases and stay at the store comfortable |
 | 2 | Marginal Customers |moderate purchases and moderate frequency at the shops | Feedback from these customers can help better quality of service to these group|
 
 **Geographical purchase Clustering**
