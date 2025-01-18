@@ -8,13 +8,16 @@ recommendations, and improve customer satisfaction.
 
 **Project Structure**
 <br> 
-*Data collection and cleaning
+* Data collection and cleaning
 <br>
-*Data preprocessing and transformation
 <br>
-*Data Clustering and analysis
+* Data preprocessing and transformation
 <br>
-*Results
+<br>
+* Data Clustering and analysis
+<br>
+<br>
+* Results
 <br>
 
 
