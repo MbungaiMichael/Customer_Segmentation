@@ -1,6 +1,6 @@
-**#Customer Segmentation**
+# **Customer Segmentation**
 <br><br>
-  Customer segmentation is the process of dividing a company's customers into groups based on common characteristics. These groups, or 
+Customer segmentation is the process of dividing a company's customers into groups based on common characteristics. These groups, or 
 segments, are created to help businesses better understand their customers and tailor their marketing and sales efforts to each specific group.
 <br>
   This project aims at creating segments based on customers purchase behaviour and create a clustering model to group the customers by purchasing 
@@ -34,6 +34,6 @@ These steps are found in the notebook, customer segmentation.ipynb file with sum
 
 | Cluster | Type of Customer | RFM analysis| Suggestions |
 |---|---|:---:|---|
-| 0 | Row 1, Cell 2 | Row 1, Cell 3 | Row 1, Cell 4 |
+| 0 | Steady Customers  | | Row 1, Cell 4 |
 | 1 | Row 2, Cell 2 | Row 2, Cell 3 | Row 2, Cell 4 |
 | 2 | Row 3, Cell 2 | Row 3, Cell 3 | Row 3, Cell 4 |
