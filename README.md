@@ -7,16 +7,16 @@ segments, are created to help businesses better understand their customers and t
 
   This project aims at creating segments based on customers purchase behaviour and create a clustering model to group the customers by purchasing 
 behaviour and also by demographics that is by country. The resulting segments can be used to target marketing campaigns, personalize product 
-recommendations, and improve customer satisfaction.
+recommendations, and improve customer satisfaction. Data collected from an online retail store.
 
-**Project Structure** 
+# **Project Structure** 
 * Data collection and cleaning.
 * Data preprocessing and transformation.
 * Data Clustering and analysis.
 * Results.
 
 
-**Requirements**
+# **Requirements**
 
 * Jupyter Notebook.
 * Pandas.
@@ -24,7 +24,7 @@ recommendations, and improve customer satisfaction.
 * Scikit-learn.
 * Matplotlib.
 
-**Procedure**
+# **Procedure**
 
 These steps are found in the notebook, customer segmentation.ipynb file with summary explanations.
 
@@ -32,10 +32,36 @@ These steps are found in the notebook, customer segmentation.ipynb file with sum
 * Data preprocessing and transformation.
 * Data Clustering and analysis.
 
-**Results**
+# **Results**
+
+**Customer behaviour clustering**
 
 | Cluster | Type of Customer | RFM analysis| Suggestions |
 |---|---|:---:|---|
-| 0 | Steady Customers  | | Row 1, Cell 4 |
-| 1 | Row 2, Cell 2 | Row 2, Cell 3 | Row 2, Cell 4 |
-| 2 | Row 3, Cell 2 | Row 3, Cell 3 | Row 3, Cell 4 |
+| 0 | Steady Customers  |Frequent and high purchase customers | Target customer for recent products |
+| 1 | New Customers | new comers with low frequency and purchases| make their purchases and stay at the store comforatble |
+| 2 | Marginal Customers |moderate purchases and moderate frequency at the shops | Feedback from these customers can help better quality of service to these group|
+
+**Geographical purchase Clustering**
+
+**Top Purchases By Country**
+ 
+ # Bahrain 17 sales, brazil 32 sales, Czech 30 sales, Saudi arabia 10 sales.
+| Country |Purchases| Suggestion|
+|---|---|---|
+| United Kingdom |close to 362,000  | Increase Products, Target audience| 
+| Germany |close to 10,000  |Increase Product delivery| 
+| France |close to 9,000  |Increase Product delivery| 
+| Eire|close to 8,000  |Increase Product delivery|
+| Spain |close to 3,000  |Increase Product delivery|
+|Belgium|close to 2,100  |Increase Product delivery|
+
+
+**Suboptimal Purchases by Country**
+| Country |Purchases| Suggestion|
+|---|---|---|
+| Saudi arabia | 10  | Increase Product awareness through Discounts and public advertisement| 
+| Bahrain |17 | Increase Product awareness through Discounts and public advertisement| 
+| Czech |30 | Increase Product awareness through Discounts and public advertisement| 
+| brazil|32  | Increase Product awareness through Discounts and public advertisement|
+
