@@ -10,14 +10,14 @@ behaviour and also by demographics that is by country. The resulting segments ca
 recommendations, and improve customer satisfaction. Data collected from an online retail store.
 
 
-# **Table of Contents**
+# *Table of Contents*
 * Project Structure
 * Requirements
 * Procedure
 * Results
 
 
-# **Project Structure**
+# *Project Structure*
 * Data collection and cleaning.
 * Data preprocessing and transformation.
 * Data Clustering and analysis.
