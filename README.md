@@ -34,7 +34,7 @@ recommendations, and improve customer satisfaction. Data collected from an onlin
 
 ## **Procedure**
 
-These steps are found in the notebook, customer segmentation.ipynb file with summary explanations.
+These steps are found in the notebook, [customer segmentation.ipynb](https://github.com/MbungaiMichael/Customer-Segmentation/blob/main/customer%20segmentation.ipynb) file with summary explanations.
 
 * Data collection and cleaning.
 * Data preprocessing and transformation.
