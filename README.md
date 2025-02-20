@@ -9,6 +9,14 @@ segments, are created to help businesses better understand their customers and t
 behaviour and also by demographics that is by country. The resulting segments can be used to target marketing campaigns, personalize product 
 recommendations, and improve customer satisfaction. Data collected from an online retail store.
 
+
+# **Table of Contents**
+* Project Structure
+* Requirements
+* Procedure
+* Results
+
+
 # **Project Structure** 
 * Data collection and cleaning.
 * Data preprocessing and transformation.
