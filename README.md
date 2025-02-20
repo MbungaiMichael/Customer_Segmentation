@@ -17,7 +17,7 @@ recommendations, and improve customer satisfaction. Data collected from an onlin
 * Results
 
 
-# ***Project Structure***
+# **Project Structure**
 * Data collection and cleaning.
 * Data preprocessing and transformation.
 * Data Clustering and analysis.
