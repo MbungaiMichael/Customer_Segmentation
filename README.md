@@ -6,7 +6,7 @@ segments, are created to help businesses better understand their customers and t
 <br>
 
   This project aims at creating segments based on customers purchase behaviour and create a clustering model to group the customers by purchasing 
-behaviour and also by demographics that is by country. The resulting segments can be used to target marketing campaigns, personalize product 
+behaviour and also by demographics. The resulting segments can be used to target marketing campaigns, personalize product 
 recommendations, and improve customer satisfaction. Data collected from an online retail store.
 
 
